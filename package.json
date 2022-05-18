@@ -1,0 +1,15 @@
+{
+  "name": "@log1st/negative-list",
+  "description": "Implementation of List Data Structure with negative indexes",
+  "packageManager": "yarn@3.2.1",
+  "author": {
+    "name": "Sergey Perenets",
+    "email": "log1st.ps@gmail.com"
+  },
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/log1st/negative-list.git"
+  },
+  "homepage": "https://github.com/log1st/negative-list/tree/master/"
+}
